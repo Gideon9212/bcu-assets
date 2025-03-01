@@ -1,0 +1,34 @@
+{
+    "apk_update":[
+        {
+            "ver":"0.20.00",
+            "CORE_VER":"0.7.10.0",
+            "FORK_VER":11,
+            "desc":"Forks thrown together; The start of G2BCU"
+        },
+        {
+            "ver":"0.18.13",
+            "CORE_VER":"0.7.9.0",
+            "FORK_VER":11,
+            "desc":"Current BCU of date."
+        },
+        {
+            "ver":"0.18.12",
+            "CORE_VER":"0.7.8.2",
+            "FORK_VER":11,
+            "desc":"Bug fixes most likely?"
+        },
+        {
+            "ver":"0.18.11",
+            "CORE_VER":"0.7.8.2",
+            "FORK_VER":11,
+            "desc":"13.0 content's most likey?"
+        },
+        {
+            "ver":"0.18.10",
+            "CORE_VER":"0.7.8.2",
+            "FORK_VER":11,
+            "desc":"The first BCU APK"
+        }
+    ]
+}
