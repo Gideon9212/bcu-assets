@@ -1,6 +1,12 @@
 {
     "apk_update":[
 		{
+            "ver":"0.20.40",
+            "CORE_VER":"0.7.15.0",
+            "FORK_VER":13,
+            "desc":"The 15.2 Update - Glue"
+        },
+		{
             "ver":"0.20.37",
             "CORE_VER":"0.7.12.0",
             "FORK_VER":13,
